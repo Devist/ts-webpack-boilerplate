@@ -2,9 +2,6 @@
   "scripts": {
     "build": "node esbuild.config.js"
   },
-  "dependencies": {
-    "typescript": "^5.0.2"
-  },
   "devDependencies": {
     "esbuild": "^0.17.12",
     "eslint": "^8.36.0",
